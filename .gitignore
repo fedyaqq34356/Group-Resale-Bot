@@ -1,0 +1,13 @@
+.env
+venv/
+sessions/
+*.session
+*.session-journal
+data.db
+data.db-shm
+data.db-wal
+__pycache__/
+handlers/__pycache__/
+keyboards/__pycache__/
+*.pyc
+/tmp/avatar_*.jpg
